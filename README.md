@@ -58,6 +58,6 @@ To recover from a DDoS attack by ICMP flooding, access to network services needs
 
 **Full Recovery**: Finally, once the flood of ICMP packets has timed out and the threat is neutralized, all non-critical network systems and services can be safely brought back online.
 
-Reflections & Notes
+# Reflections & Notes
 
 Applying the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover) transitions an organization from a reactive security posture to a proactive and resilient one. By utilizing this framework, I was able to not only document the containment of a disruptive DDoS attack but also implement scalable defenses (like IDS/IPS and firewall rate limiting) that ensure the long-term integrity and availability of the company's digital infrastructure.
